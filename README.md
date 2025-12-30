@@ -35,8 +35,9 @@ A análise via boxplot revelou que a mediana de serviços utilizados é idêntic
 2.  Para executar, recomenda-se abrir o arquivo `.ipynb` no **Google Colab**.
 
 ## 📂 Estrutura de Arquivos
-* `TelecomX_BR.ipynb`: Notebook principal com todo o código de análise e gráficos.
-* `data/`: (Opcional) Pasta contendo a base de dados utilizada.
+* `data/`: Pasta contendo a base de dados
+* `notebook/`: Notebook principal com todo o código de análise, gráficos e o relatório final.
+* * `análises visuais/`: Pasta contendo os gráficos
 
 ---
 
