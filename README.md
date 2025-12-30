@@ -37,7 +37,7 @@ A análise via boxplot revelou que a mediana de serviços utilizados é idêntic
 ## 📂 Estrutura de Arquivos
 * `data/`: Pasta contendo a base de dados
 * `notebook/`: Notebook principal com todo o código de análise, gráficos e o relatório final.
-* * `análises visuais/`: Pasta contendo os gráficos
+* `análises visuais/`: Pasta contendo os gráficos
 
 ---
 
