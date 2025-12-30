@@ -35,9 +35,9 @@ A análise via boxplot revelou que a mediana de serviços utilizados é idêntic
 2.  Para executar, recomenda-se abrir o arquivo `.ipynb` no **Google Colab**.
 
 ## 📂 Estrutura de Arquivos
-* `data/`: Pasta contendo a base de dados
+* `data/`: Base de dados
 * `notebook/`: Notebook principal com todo o código de análise, gráficos e o relatório final.
-* `análises visuais/`: Pasta contendo os gráficos
+* `análises visuais/`: Gráficos para a análise
 
 ---
 
